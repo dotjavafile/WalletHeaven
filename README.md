@@ -13,3 +13,5 @@ Encryption is done with AES256.
 #TODO
 - add more options to save
 - add settings (can't think what i should add here)
+
+More details check out my site http://newfeds.com
