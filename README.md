@@ -9,14 +9,16 @@ safe.
 
 Encryption is done with AES256.
 
-![Alt text](http://i.imgur.com/JViJQLt.png)
-![Alt text](http://i.imgur.com/3oxrr5W.png)
-![Alt text](http://i.imgur.com/Iocr8LL.png)
-![Alt text](http://i.imgur.com/2mjJ3dJ.png)
-
 
 #TODO
 - add more options to save
 - add settings (can't think what I should add here)
 
 More details check out my site http://newfeds.com
+
+
+![Alt text](http://i.imgur.com/JViJQLt.png)
+![Alt text](http://i.imgur.com/3oxrr5W.png)
+![Alt text](http://i.imgur.com/Iocr8LL.png)
+![Alt text](http://i.imgur.com/2mjJ3dJ.png)
+
